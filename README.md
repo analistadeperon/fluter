@@ -1,4 +1,4 @@
-# fluter
+# flutter
 
 name: pomodoro
 description: A new Flutter project.
